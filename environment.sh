@@ -11,5 +11,5 @@ chmod a+x repo
 sudo install repo /usr/local/bin/repo
 
 echo -e "\n================== CONFIGURING GIT ==================\n"
-git config --global user.email "iamhp2k@gmail.com"
-git config --global user.name "hpnightowl"
+git config --global user.email "bistodroid@gmail.com"
+git config --global user.name "notakbuzz"
